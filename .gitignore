@@ -1,11 +1,9 @@
 # Adding config.py file.
 config.py
 configcopy.py
-configcopy2
-
-# Adding additional files
+configcopy2.py
+openweather_API_key.txt
 API_practice.ipynb
-
 random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
